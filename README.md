@@ -21,7 +21,7 @@ This project focuses on analyzing the Airbnb dataset to uncover key insights abo
 
 ---
 
-## 📊 Steps Involved
+##  Steps Involved
 
 1. **Data Loading & Inspection**  
    - Loaded the dataset and checked for missing values, duplicates, and data types.  
@@ -49,7 +49,7 @@ This project focuses on analyzing the Airbnb dataset to uncover key insights abo
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 - Price distribution across different property types.  
 - Correlation heatmap between features.  
 - Top 10 neighborhoods by average price.  
@@ -69,11 +69,11 @@ You can view and run the complete project in Google Colab here:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Shivakumar L R**  
-🎓 Master’s in Computer Science (AI & ML), Woolf University  
+ Master’s in Computer Science (AI & ML), Woolf University  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivakumr-lr-0153ba2b1)  
-📧 shivakumar.lr25@gmail.com  
+ shivakumar.lr25@gmail.com  
 
 
 

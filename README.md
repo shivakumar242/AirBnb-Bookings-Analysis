@@ -1,7 +1,7 @@
 # 🏡 Airbnb Data Analysis using Exploratory Data Analysis (EDA)
 
 ## 📘 Project Overview
-This project focuses on analyzing Airbnb dataset to uncover key insights about pricing patterns, room availability, and host behavior. Using Exploratory Data Analysis (EDA) techniques, the project identifies trends and factors influencing listing prices and customer preferences.
+This project focuses on analyzing the Airbnb dataset to uncover key insights about pricing patterns, room availability, and host behavior. Using Exploratory Data Analysis (EDA) techniques, the project identifies trends and factors influencing listing prices and customer preferences.
 
 ---
 
@@ -15,9 +15,9 @@ This project focuses on analyzing Airbnb dataset to uncover key insights about p
 
 ## 🧰 Tools & Technologies Used
 - **Python**
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **IDE:** Jupyter Notebook
-- **Visualization:** Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Environment:** Google Colab  
+- **IDE (optional):** Jupyter Notebook  
 
 ---
 
@@ -57,10 +57,28 @@ This project focuses on analyzing Airbnb dataset to uncover key insights about p
 
 ---
 
-## 🚀 How to Run the Project
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/<your-username>/Airbnb-EDA-Project.git
+## 🚀 View the Project Code
+You can view and run the complete project in Google Colab here:  
+👉 [**Open in Google Colab**](https://colab.research.google.com/drive/1MX1lRZs4sTXMSmxS0jwe8z9Hfth5Xzhe)
+
+---
+
+## 📚 Future Improvements
+- Integrate machine learning models for price prediction.  
+- Add interactive dashboards using Power BI or Streamlit.  
+
+---
+
+## 👨‍💻 Author
+**Shivakumar L R**  
+🎓 Master’s in Computer Science (AI & ML), Woolf University  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivakumr-lr-0153ba2b1)  
+📧 shivakumar.lr25@gmail.com  
+
+---
+
+⭐ *If you found this project helpful, don’t forget to star the repository!*
+
 
 
 
